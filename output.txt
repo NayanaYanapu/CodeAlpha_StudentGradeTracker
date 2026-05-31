@@ -1,0 +1,22 @@
+Enter number of students: 3
+
+Student 1
+Enter name: nayana
+Enter grade: 9
+
+Student 2
+Enter name: pravallika
+Enter grade: 3
+
+Student 3
+Enter name: vinay
+Enter grade: 6
+
+===== STUDENT REPORT =====
+Name: nayana | Grade: 9.0
+Name: pravallika | Grade: 3.0
+Name: vinay | Grade: 6.0
+
+Average Score: 6.0
+Highest Score: 9.0
+Lowest Score: 3.0
